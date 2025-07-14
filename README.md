@@ -35,7 +35,7 @@ The application follows these main steps:
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository-url>
+    git clone [<repository-url>](https://github.com/doradame/Person-Detection--Face-Recognition)
     cd <repository-directory>
     ```
 
