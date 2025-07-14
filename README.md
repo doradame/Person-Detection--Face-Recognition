@@ -35,8 +35,8 @@ The application follows these main steps:
 1.  **Clone the repository:**
 
     ```bash
-    git clone [<repository-url>](https://github.com/doradame/Person-Detection--Face-Recognition)
-    cd <repository-directory>
+    git clone https://github.com/doradame/Person-Detection--Face-Recognition
+    cd Person-Detection--Face-Recognition
     ```
 
 2.  **Create and activate a virtual environment (recommended):**
@@ -172,6 +172,5 @@ This will rename the folder and update the profile information accordingly.
 ├── rename_profile.py     # Script to rename a profile
 ├── requirements.txt      # Python dependencies
 ├── state_manager.py      # Manages the state of detected individuals
-├── test_insightface.py   # (Test script, needs further investigation)
 └── utils.py              # Utility functions (e.g., EAR calculation)
 ```
