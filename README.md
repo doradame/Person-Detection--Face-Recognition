@@ -1,5 +1,8 @@
 # Real-Time Face Recognition and Liveness Detection
 
+[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
+
+
 This project is a real-time video processing pipeline that performs face detection, recognition, and liveness detection on multiple video streams. It's designed to be robust and scalable, utilizing a multi-threaded architecture to handle I/O operations and stream processing concurrently.
 
 ## Features
