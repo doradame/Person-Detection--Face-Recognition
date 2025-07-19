@@ -1,4 +1,8 @@
-![AI Security Mascot](https://mojalab.com/content/images/size/w1440/2025/07/Person_and_face_Detection_2.webp)
+
+<p align="center">
+  <img src="https://mojalab.com/content/images/size/w1440/2025/07/Person_and_face_Detection_2.webp" alt="AI Security Mascot" width="500"/>
+</p>
+
 
 
 # Real-Time Face Recognition and Liveness Detection
